@@ -1,0 +1,6 @@
+interface:
+  display_name: "操控 Edge 浏览器"
+  short_description: "通过本机桥接访问和操作 Microsoft Edge 标签页。"
+  default_prompt: "Use $edge-browser-control to inspect and operate my current Microsoft Edge tabs."
+policy:
+  allow_implicit_invocation: true
